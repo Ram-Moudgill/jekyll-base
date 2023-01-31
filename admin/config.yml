@@ -6,14 +6,7 @@ backend:
 media_folder: "img/uploads" # Folder where user uploaded files should go
 
 collections:
-  - name: "data"
-    label: "data"
-    folder: "_data/"
-    create: true
-    editor:
-      preview: true
-
-  - name: "blog"
+ - name: "blog"
     label: "Blog"
     folder: "_posts/"
     create: true
@@ -26,3 +19,12 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  name: "data"
+    label: "data"
+    folder: "_data/"
+    create: true
+    editor:
+      preview: true
+
+  
