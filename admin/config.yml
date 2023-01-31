@@ -28,3 +28,4 @@ collections:
     editor:
       preview: true
     fields:
+      -
