@@ -20,12 +20,8 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "data"
-    label: "data"
-    folder: "_data/"
+  - name: "SEO Content"
+    label: "SEO Content"
+    folder: "_data/feature"
     create: true
-
-    editor:
-      preview: true
-    fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+    match: "**/*"
