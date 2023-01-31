@@ -1,3 +1,8 @@
+backend:
+  name: github
+  repo: Ram-Moudgill/jekyll-base
+  branch: master
+
 collections:
   - name: "blog"
     label: "Blog"
