@@ -27,6 +27,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "SEO Content"
+    format: "json"
     label: "SEO Content"
     folder: "_data/feature"
     create: true
