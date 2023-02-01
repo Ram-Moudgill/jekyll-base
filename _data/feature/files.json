@@ -1,3 +1,76 @@
 {
-  "key": "value"
+  "H1": "Safely convert csv to zip for free. ",
+  "H2": "Upload your csv file to zip it",
+  "TITLE": "Convert csv to zip Online for Free Without Downloading Anything",
+  "META": "Convert csv files to zip for free without downloading anything using this website. It converts files faster than any converters for free, and with 100% safety",
+  "img": "/img/zipcompress.png",
+  "imgwidth": "40px",
+  "imgheight": "40px",
+  "imgalt": "altvalue",
+  "nofileupload": true,
+  "LABEL": "",
+  "color": "#c44dff",
+  "BREADCRUMB_LABEL": "",
+  "keywords": "Convert csv to zip Online",
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/easy-to-use.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/flexible.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/security.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/download.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/nodownload.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/highquality.png",
+      "header": "",
+      "content": ""
+    }
+  ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/img/howto.png",
+    "heading": "",
+    "steps": []
+  },
+  "FAQ": [
+    {
+      "question": "",
+      "answer": ""
+    }
+  ],
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/jstree/3.3.11/themes/default-dark/style.min.css\" integrity=\"sha512-WXJRkkdEPD+ELJ8Q/Wlbob6an44EFSIzz8+IAZKIpDzUr5ft20F310lnW8qaqP9bCconQq+ukILgrO1lJDAQvg==\" crossorigin=\"anonymous\" />",
+    "<link rel=\"stylesheet\" href=\"/css/zip.css\" />"
+  ],
+  "jscdns": [
+    " <script  src=\"/assets/js/multiselect.js\"></script>",
+    " <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jszip/3.2.1/jszip.js\" integrity=\"sha512-vYFTnfZ1ylYRr65TdPUJMLYVank7/goAekV5wxTUqIMmLVWSm8VJWUcnhq00pj4aP4lL40IJyUvXmzyta941Gg==\" crossorigin=\"anonymous\" defer ></script>",
+    "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.js\" integrity=\"sha512-rQsNJc2nhZwR4InvEnjwPWIBEfRAwH8QoBd3/UyFFwLuJ1GUozrMhqh0PBjZMt43KtB9RSlm2mcHRMAQgwtM3Q==\" crossorigin=\"anonymous\" defer ></script>",
+    "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jszip-utils/0.1.0/jszip-utils.js\" integrity=\"sha512-vzp9X4pwJHRiGSEH692sqmRe5R8OQNKSCe1zg38GQoNUGJtnPrwhwKF3lbaFZMsT8ZQ3ppZ8tlLqkJGosi5/CA==\" crossorigin=\"anonymous\" defer></script>",
+    "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/jstree.min.js\" defer></script>",
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/zipcompress.js\" defer></script>"
+  ]
 }
