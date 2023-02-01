@@ -35,3 +35,6 @@ collections:
     fields:
       - { label: "H1", name: "H1" }
       - { label: "H2", name: "H2" }
+      - { label: "TITLE", name: "TITLE" }
+      - { label: "META", name: "META" }
+      - { label: "IMG", name: "IMG" }
